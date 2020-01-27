@@ -1,0 +1,16 @@
+ili9163.c:37:6:lcdReset	8	static
+ili9163.c:47:6:lcdWriteCommand	16	static
+ili9163.c:55:6:lcdWriteParameter	16	static
+ili9163.c:63:6:lcdWriteData	16	static
+ili9163.c:72:6:lcdInitialise	16	static
+ili9163.c:170:6:lcdClearDisplay	24	static
+ili9163.c:196:6:lcdPlot	16	static
+ili9163.c:220:6:lcdLine	40	static
+ili9163.c:277:6:lcdRectangle	32	static
+ili9163.c:288:6:lcdFilledRectangle	32	static
+ili9163.c:318:6:lcdCircle	32	static
+ili9163.c:348:6:lcdPutCh	32	static
+ili9163.c:384:10:decodeRgbValue	16	static
+ili9163.c:392:9:lcdTextX	16	static
+ili9163.c:397:9:lcdTextY	16	static
+ili9163.c:400:6:lcdPutS	40	static
